@@ -9,7 +9,7 @@ from boto import ec2
 retentionTag = 'RetentionCount' ## Retention Count is in Days
 searchTag='instance_id'
 region = 'us-east-1'
-accountId = '078770806254'
+accountId = '078770-----'
 backupTag="AutomaticBackup"
 defaultRetentionCount=30
 

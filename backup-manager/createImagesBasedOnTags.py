@@ -8,7 +8,7 @@ from datetime import date, timedelta, datetime
 retentionTag = 'Frequency'  # Frequency is in number
 searchTag = 'instance_id'
 region = 'us-east-1'
-accountId = '078770806254'
+accountId = '07877--------'
 backupTag = "AutomaticBackup"
 defaultFrequency = 1
 count = 0
